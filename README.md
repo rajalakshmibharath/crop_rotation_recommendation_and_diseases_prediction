@@ -1,4 +1,4 @@
-# crop_rotation_recommendation and crop_diseases_prediction_system 
+# Crop Rotation Recommendation and Crop Diseases Prediction System using Streamlit
 
 ![](images/img1.png)
 ![](images/img2.png)
