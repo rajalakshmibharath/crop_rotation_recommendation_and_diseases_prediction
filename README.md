@@ -1,4 +1,4 @@
-# crop_rotation_recommendation
+# crop_rotation_recommendation and crop_diseases_prediction_system 
 
 ![](images/img1.png)
 ![](images/img2.png)
